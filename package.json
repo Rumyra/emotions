@@ -1,0 +1,29 @@
+{
+  "name": "emotions",
+  "version": "1.0.0",
+  "description": "An app to save and display my emotions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rumyra/emotions.git"
+  },
+  "keywords": [
+    "emotions",
+    "data",
+    "time",
+    "place"
+  ],
+  "author": "Ruth John",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rumyra/emotions/issues"
+  },
+  "homepage": "https://github.com/Rumyra/emotions#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
